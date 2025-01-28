@@ -15,8 +15,8 @@
 ### Social Networks
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihai-apostol-3a86bb235/)
 
-### Other Information
-I am 20 year and are a wheelchair 
+### About Me 
+I am in a wheelchair
 
 ### Language
 * Romanian (mother tongue)
