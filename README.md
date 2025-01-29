@@ -12,8 +12,10 @@
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-### Social Networks
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihai-apostol-3a86bb235/)
+# Social Media
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihai-apostol-3a86bb235/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mihaiapostol11)
+[![Discord](https://img.shields.io/badge/discord-my?style=for-the-badge&logo=discord&logoColor=white&color=%235662F6)](https://discord.com/channels/@999642555216035942)
 
 ### About Me 
 I am in a wheelchair
@@ -27,5 +29,5 @@ I am in a wheelchair
 * Studying English
 * Editing photos in Photoshop
 * Installing window and linux system
-* Developing  differently HTML templates on [CodePen](https://codepen.io/programmer20000)
-* Solving tasks on [Codewars](https://www.codewars.com/users/programmer20000) and [LeetCode](https://leetcode.com/programmer20000/)
+* Developing  differently HTML templates on [CodePen](https://codepen.io/mihaiapostol14)
+* Solving tasks on [Codewars](https://www.codewars.com/users/mihaiapostol14) and [LeetCode](https://leetcode.com/u/mihaiapostol14/)
