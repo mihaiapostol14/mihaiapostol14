@@ -14,7 +14,7 @@
 
 # Social Media
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihai-apostol-3a86bb235/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mihaiapostol11)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mihai_apostol)
 [![Discord](https://img.shields.io/badge/discord-my?style=for-the-badge&logo=discord&logoColor=white&color=%235662F6)](https://discord.com/channels/@999642555216035942)
 
 ### About Me 
